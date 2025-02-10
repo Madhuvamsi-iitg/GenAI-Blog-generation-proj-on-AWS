@@ -1,0 +1,1 @@
+# GenAI-Blog-generation-proj-on-AWS
